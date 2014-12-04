@@ -1,4 +1,4 @@
 wscontest
 =========
 
-A simple application for the 10th Wikisource anniversary contest
+A simple application for draw winners Wikisource anniversary contests. 
