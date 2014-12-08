@@ -45,7 +45,7 @@ def index_post():
         try:
             table = get_participants_table(
                 lang='it',
-                page='Wikisource:Decimo_compleanno_di_Wikisource/Scrutini',
+                page='Wikisource:Undicesimo_compleanno_di_Wikisource/Scrutini',
                 section=1,
                 revid=revid
             )
