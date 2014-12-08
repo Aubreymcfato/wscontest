@@ -94,7 +94,7 @@ def write_results(winner1,
 if __name__ == '__main__':
     table = get_participants_table(
         lang='it',
-        page='Wikisource:Decimo_compleanno_di_Wikisource/Scrutini',
+        page='Wikisource:Undidicesimo_compleanno_di_Wikisource/Scrutini',
         section=1,
         revid=1354532)
 
